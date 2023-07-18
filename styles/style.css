@@ -433,19 +433,19 @@ body {
 .services-item.house {
   background-image: url(../images/advantage-home.svg);
   background-repeat: no-repeat;
-  background-position: top 26% left 50%;
+  background-position: top 81px left 50%;
 }
 
 .services-item.food {
   background-image: url(../images/advantage-food.svg);
   background-repeat: no-repeat;
-  background-position: top 26% left 50%;
+  background-position: top 81px left 50%;
 }
 
 .services-item.gift {
   background-image: url(../images/advantage-gift.svg);
   background-repeat: no-repeat;
-  background-position: top 26% left 50%;
+  background-position: top 81px left 50%;
 }
 
 .services h2 {
@@ -657,6 +657,7 @@ body {
 
 .phonenumber {
   color: #000000;
+  max-width: 500px;
 }
 
 .phonenumber:hover {
